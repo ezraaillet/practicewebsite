@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aqua;
+    padding: 0 25%;
+}
+  
+  div {
+    text-align: center;
+    margin: 3%;
+  }
+  
+  img {
+    border-radius: 10px 20%;
+  }
+  
+  header {
+    text-align: center;
+    font-size: 70px;
+    font-family: sans-serif;
+    
+    color: #f64c72;
+    padding: 1%;
+  
+  }
+  
+  p {
+    text-align: center;
+    color: #f64c72;
+    
+  }
+  
+  h1 {
+    text-align: center;
+    color: #f64c72;
+    
+  }
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: #f64c72;
+}
