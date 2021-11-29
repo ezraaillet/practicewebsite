@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: aqua;
+    background-color: #7D2CE0;
     padding: 0 25%;
 }
   
@@ -18,28 +18,41 @@ body {
   
   header {
     text-align: center;
-    font-size: 70px;
-    font-family: sans-serif;
-    
-    color: #f64c72;
+    font-size: 68px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #4B0F94;
+    color: #949200;
     padding: 1%;
   
   }
   
   p {
     text-align: center;
-    color: #f64c72;
+    color: #949200;
+    font-family: sans-serif;
     
   }
   
   h1 {
     text-align: center;
-    color: #f64c72;
+    color: #949200;
+    font-family: sans-serif;
     
+  }
+
+  h2 {
+    text-align: center;
+    color: #949200;
+    font-family: sans-serif;
   }
 
 hr {
     border: none;
     height: 1px;
-    background-color: #f64c72;
+    background-color: #949200;
+}
+
+ul {
+    color: #949200;
+    font-family: sans-serif;
 }
