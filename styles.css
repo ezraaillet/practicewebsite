@@ -56,3 +56,30 @@ ul {
     color: #949200;
     font-family: sans-serif;
 }
+
+h3 {
+    color: #949200;
+    font-family: sans-serif; 
+}
+
+footer {
+    color: #949200;
+    font-family: sans-serif;
+    background-color: #4B0F94;
+    margin: 3%;
+}
+
+a:hover {
+    color: #9D4DFF;
+}
+
+ol {
+    color: #949200;
+    font-family: sans-serif;
+}
+
+article {
+    color: #949200;
+    font-family: sans-serif;
+    text-align: center;
+}
