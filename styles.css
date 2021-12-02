@@ -23,44 +23,44 @@ body {
     font-size: 68px;
     font-family: 'Courier New', Courier, monospace;
     background-color: #4B0F94;
-    color: #949200;
+    color: #e4e005;
     padding: 1%;
   
   }
   
   p {
     text-align: center;
-    color: #949200;
+    color: #e4e005;
     font-family: sans-serif;
     
   }
   
   h1 {
     text-align: center;
-    color: #949200;
+    color: #e4e005;
     font-family: sans-serif;
     
   }
 
   h2 {
     text-align: center;
-    color: #949200;
+    color: #e4e005;
     font-family: sans-serif;
   }
 
 hr {
     border: none;
     height: 1px;
-    background-color: #949200;
+    background-color: #e4e005;
 }
 
 ul {
-    color: #949200;
+    color: #e4e005;
     font-family: sans-serif;
 }
 
 h3 {
-    color: #949200;
+    color: #e4e005;
     font-family: sans-serif; 
 }
 
@@ -71,16 +71,20 @@ a:hover {
 }
 
 ol {
-    color: #949200;
+    color: #e4e005;
     font-family: sans-serif;
 }
 
 article {
-    color: #949200;
+    color: #e4e005;
     font-family: sans-serif;
     text-align: center;
 }
 
 main {
     padding: 0 25% 64px 25%;
+}
+
+a {
+    color: #e4e005;
 }
